@@ -1,3 +1,7 @@
+# Project Overview
+
+This React project that provides a dashboard view of fitness statistics and charts to analyze. This data is fetched using the Strava API. I am currently learning React so I wanted to create a website to practice these skills. I have often wished that Strava had more statistics available on their app so rather than waiting for Strava potentially add in these statistics and charts, I created a Strava Dashboard that contains all the information that is relavent to me. In the future, I hope to add in additional data from Garmin or Apple Health. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
